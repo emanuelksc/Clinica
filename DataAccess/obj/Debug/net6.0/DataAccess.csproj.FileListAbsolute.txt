@@ -1,0 +1,17 @@
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DTOs.dll
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\bin\Debug\net6.0\DTOs.pdb
+C:\Users\hpo\Documents\Capacitaciones\C#\WebApi\WebApiClinica\ClinicaApi\Clinica\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
